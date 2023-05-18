@@ -1,0 +1,38 @@
+div{
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+    position: relative;
+    top: 50%;
+    left: 30%;
+}
+
+.saat{
+    width: 5px;
+    height: 4rem;
+    background-color: black;
+    transform-origin: 25% 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.deqiqe{
+    width: 4px;
+    height: 3rem;
+    background-color: red;
+    transform-origin: 25% 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.saniye{
+    width: 2px;
+    height: 5rem;
+    background-color: yellow;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform-origin: 25% 0;
+}
